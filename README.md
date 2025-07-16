@@ -1,5 +1,5 @@
 # Salinaka | E-commerce react app
-
+[Live demo](https://salinaka-ecommerce.web.app/)
 ## Run Locally
 ### 1. Install Dependencies
 ```sh
